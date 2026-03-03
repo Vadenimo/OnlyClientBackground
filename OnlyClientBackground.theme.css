@@ -1,0 +1,19 @@
+/**
+* @name OnlyClientBackground
+* @author Vadenimo
+* @version 1.0
+* @description A theme that allows one to change their client's background.
+* @source https://github.com/Vadenimo/OnlyClientBackground
+* @updateUrl https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeTheme.theme.css
+*/
+
+@import url(https://raw.githubusercontent.com/Vadenimo/OnlyClientBackground/refs/heads/main/src/main.css);
+
+/* When using images, make sure they contain an extension in the file's link (e. g. image.png / image.jpg). */
+
+:root {
+
+  --theme-background-image: url(https://i.imgur.com/SSe9ZJR.jpeg);
+  --theme-transparency: rgba(0, 0, 0, 0.75);
+
+}
