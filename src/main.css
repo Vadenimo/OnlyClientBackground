@@ -96,11 +96,6 @@
   overflow: visible !important;
 }
 
-.pill_e5445c .item__58105:not([style*="height: 8px"]) {
-  border-color: transparent;
-  background-color: initial;
-}
-
 .stack_dbd263.scroller_ef3116.none_d125d2.scrollerBase_d125d2 {
   justify-content: center;
 }
@@ -354,4 +349,5 @@
 .chatTypingGradientAtBottom__36d07 {
   background: transparent;
 }
+
 
