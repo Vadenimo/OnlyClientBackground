@@ -44,7 +44,11 @@
   background: transparent;
 }
 
-.membersWrap_c8ffbb, .hiddenMembers_c8ffbb  {
+.membersWrap_c8ffbb {
+  background: transparent;
+}
+
+.hiddenMembers_c8ffbb  {
   background: transparent;
 }
 
