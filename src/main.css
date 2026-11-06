@@ -1,253 +1,253 @@
-:is([class^="appMount_"], [class*=" appMount_"]) {
+.appMount__51fd7 {
   background: transparent;
   background-image: var(--theme-background-image);
   background-size: cover;
 }
 
-:is([class^="app_"], [class*=" app_"]) {
+.app__160d8 {
   background: transparent;
 }
 
-:is([class^="bg_"], [class*=" bg_"]) {
+.bg__960e4 {
   background: var(--theme-transparency);
 }
 
-:is([class^="wrapper_"], [class*=" wrapper_"]) {
+.wrapper_ef3116 {
   background: transparent;
 }
 
-.custom-theme-background :is([class^="itemsContainer_"], [class*=" itemsContainer_"]) {
+.custom-theme-background .itemsContainer_ef3116 {
   background: transparent;
 }
 
-:is([class^="sidebar_"], [class*=" sidebar_"]):after {
+.sidebar_c48ade:after {
   background: transparent;
 }
 
-:is([class^="container_"], [class*=" container_"]) {
+.container__2637a {
   background: transparent;
 }
 
-:is([class^="chat_"], [class*=" chat_"]) {
+.chat_f75fb0 {
   background: transparent;
 }
 
-:is([class^="chatContent_"], [class*=" chatContent_"]) {
+.chatContent_f75fb0 {
   background: transparent;
 }
 
-:is([class^="themed_"], [class*=" themed_"]) {
+.themed__9293f {
   background: transparent;
 }
 
-:is([class^="container_"], [class*=" container_"]) {
+.container_c8ffbb {
   background: transparent;
 }
 
-:is([class^="members_"], [class*=" members_"]), :is([class^="member_"], [class*=" member_"]) {
+.members_c8ffbb, .member_c8ffbb {
   background: transparent;
 }
 
-:is([class^="themedBackground_"], [class*=" themedBackground_"]) {
+.themedBackground__74017 {
   background: transparent;
 }
 
-:is([class^="privateChannels_"], [class*=" privateChannels_"]) {
+.privateChannels__35e86 {
   background: transparent;
 }
 
-:is([class^="nowPlayingColumn_"], [class*=" nowPlayingColumn_"]) {
+.nowPlayingColumn__133bf {
     background: transparent;
 }
 
-:is([class^="scroller_"], [class*=" scroller_"]) {
+.scroller__99e7c {
   background: transparent;
 }
 
-:is([class^="children_"], [class*=" children_"]):after {
+.children__9293f:after {
   background: transparent;
 }
 
-:is([class^="tabBody_"], [class*=" tabBody_"]) {
+.tabBody__133bf {
   background: transparent;
 }
 
-:is([class^="container_"], [class*=" container_"]) {
+.container__133bf {
   background: transparent;
 }
 
-:is([class^="member_"], [class*=" member_"]) {
+.member_c8ffbb {
   background-color: transparent;
 }
 
-:is([class^="nowPlayingColumn_"], [class*=" nowPlayingColumn_"]) {
+.nowPlayingColumn__133bf {
   background-color: transparent;
 }
 
-:is([class^="container_"], [class*=" container_"]), :is([class^="header_"], [class*=" header_"]) {
+.container__34c2c, .header__34c2c {
     background: transparent;
 }
 
-:is([class^="container_"], [class*=" container_"]) {
+.container__7d20c {
   background-color: transparent;
 }
 
-:is([class^="wrapper_"], [class*=" wrapper_"]) {
+.wrapper_d852db {
   background: transparent;
 }
 
-:is([class^="wrapper_"], [class*=" wrapper_"]) {
+.wrapper_fc8177 {
   background: transparent;
 }
 
-:is([class^="standardSidebarView_"], [class*=" standardSidebarView_"]) {
+.standardSidebarView__23e6b {
   background: transparent;
 }
 
-:is([class^="sidebarRegionScroller_"], [class*=" sidebarRegionScroller_"]) {
+.sidebarRegionScroller__23e6b {
   background: transparent;
 }
 
-.custom-theme-background :is([class^="tree_"], [class*=" tree_"]) {
+.custom-theme-background .tree_ef3116 {
     background: transparent;
 }
 
-:is([class^="layer_"], [class*=" layer_"]) {
+.layer__960e4 {
   background: transparent;
 }
 
-:is([class^="contentRegion_"], [class*=" contentRegion_"]) {
+.contentRegion__23e6b {
   background: transparent;
 }
 
-:is([class^="contentRegionScroller_"], [class*=" contentRegionScroller_"]) {
+.contentRegionScroller__23e6b {
   background-color: transparent;
 }
 
-:is([class^="channelAttachmentArea_"], [class*=" channelAttachmentArea_"]) {
+.channelAttachmentArea_b77158 {
   background-color: transparent;
 }
 
-:is([class^="upload_"], [class*=" upload_"]) {
+.upload_aa605f {
   background-color: transparent;
 }
 
-:is([class^="searchBar_"], [class*=" searchBar_"]) {
+.searchBar__5ec2f {
   background-color: transparent;
   backdrop-filter: blur(5px);
 }
 
-:is([class^="itemCard_"], [class*=" itemCard_"]):is([class^="wrapper_"], [class*=" wrapper_"]):is([class^="outer_"], [class*=" outer_"]):is([class^="padded_"], [class*=" padded_"]):is([class^="interactive_"], [class*=" interactive_"]) {
+.itemCard__7e549.wrapper__00943.outer_bf1984.padded_bf1984.interactive_bf1984 {
   background-color: transparent;
   backdrop-filter: blur(5px);
 }
 
-:is([class^="footer_"], [class*=" footer_"]) {
+.footer__4d95d {
   background: transparent;
   backdrop-filter: blur(5px);
 }
 
-:is([class^="textContainer_"], [class*=" textContainer_"]) {
+.textContainer__4d95d {
   background-color: transparent;
   backdrop-filter: blur(15px) !important;
 }
 
-:is([class^="codeView_"], [class*=" codeView_"]) {
+.codeView__4d95d {
   background-color: transparent;
 }
 
-:is([class^="panel_"], [class*=" panel_"]) {
+.panel__5dec7 {
   background-color: transparent !important;
 }
 
-:is([class^="scroller_"], [class*=" scroller_"]) {
+.scroller__28a87 {
   background-color: transparent;
 }
 
-:is([class^="wrapper_"], [class*=" wrapper_"]) {
+.wrapper_cb9592 {
   background: transparent;
 }
 
-:is([class^="callContainer_"], [class*=" callContainer_"]) {
+.callContainer_cb9592 {
   background: transparent;
 }
 
-:is([class^="resizeHandle_"], [class*=" resizeHandle_"]) {
+.resizeHandle__01ae2 {
   background: transparent;
 }
 
-:is([class^="container_"], [class*=" container_"]) {
-  background: transparent;
-  backdrop-filter: blur(5px);
-}
-
-:is([class^="chatLayerWrapper_"], [class*=" chatLayerWrapper_"]) {
-  background: transparent;
-}
-
-:is([class^="channelChatWrapper_"], [class*=" channelChatWrapper_"]) {
-  background: transparent;
-}
-
-:is([class^="container_"], [class*=" container_"]) {
-  background: transparent;
-}
-
-:is([class^="mainCard_"], [class*=" mainCard_"]) {
+.container__01ae2 {
   background: transparent;
   backdrop-filter: blur(5px);
 }
 
-:is([class^="container_"], [class*=" container_"]):hover {
+.chatLayerWrapper__01ae2 {
+  background: transparent;
+}
+
+.channelChatWrapper_cb9592 {
+  background: transparent;
+}
+
+.container_f369db {
+  background: transparent;
+}
+
+.mainCard_f369db {
+  background: transparent;
+  backdrop-filter: blur(5px);
+}
+
+.container_faa96b:hover {
   background: transparent;
   backdrop-filter: blur(15px);
 }
 
-:is([class^="membersWrap_"], [class*=" membersWrap_"]) {
+.membersWrap_c8ffbb {
   background-color: transparent;
 }
 
-:is([class^="privateChannels_"], [class*=" privateChannels_"]) {
+.privateChannels_e6b769 {
   background: none;
 }
 
-:is([class^="chatGradient_"], [class*=" chatGradient_"]) {
+.chatGradient__36d07 {
   background: none;
 }
 
-:is([class^="chatTypingGradientAtBottom_"], [class*=" chatTypingGradientAtBottom_"]),
-:is([class^="chatTypingGradientNotAtBottom_"], [class*=" chatTypingGradientNotAtBottom_"]) {
+.chatTypingGradientAtBottom__36d07,
+.chatTypingGradientNotAtBottom__36d07 {
   background: none;
 }
 
-:is([class^="themed_"], [class*=" themed_"]) {
+.themed__9293f {
   background: transparent !important;
 }
 
-:is([class^="sidebar_"], [class*=" sidebar_"]):after {
+.sidebar__5e434:after {
   background: transparent;
 }
 
-:is([class^="chatGradient_"], [class*=" chatGradient_"]) {
+.chatGradient__36d07 {
   background: transparent;
 }
 
-:is([class^="titleContainer_"], [class*=" titleContainer_"]) {
+.titleContainer_e29cd7 {
   background-color: transparent;
 }
 
-:is([class^="header_"], [class*=" header_"]) {
+.header_c6bf1b {
   background-color: transparent;
 }
 
-:is([class^="scroller_"], [class*=" scroller_"]) {
+.scroller__53543 {
   background-color: transparent;
 }
 
-:is([class^="chatTypingGradientNotAtBottom_"], [class*=" chatTypingGradientNotAtBottom_"]) {
+.chatTypingGradientNotAtBottom__36d07 {
   background: transparent;
 }
 
-:is([class^="chatTypingGradientAtBottom_"], [class*=" chatTypingGradientAtBottom_"]) {
+.chatTypingGradientAtBottom__36d07 {
   background: transparent;
 }
