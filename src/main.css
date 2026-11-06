@@ -1,7 +1,6 @@
-.appMount__gEkNtR, body {
-  background: transparent;
-  background-image: var(--theme-background-image);
-  background-size: cover;
+.appMount_gEkNtR, body {
+    background: transparent;
+    text-rendering: optimizeLegibility;
 }
 
 .app__160d8 {
