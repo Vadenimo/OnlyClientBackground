@@ -165,10 +165,6 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
   backdrop-filter: blur(15px) !important;
 }
 
-:is([class^="codeView_"], [class*=" codeView_"]) {
-  background-color: transparent;
-}
-
 :is([class^="chatContent_"], [class*=" chatContent_"]) :is([class^="container_"], [class*=" container_"]):hover {
   background: transparent;
   backdrop-filter: blur(15px);
