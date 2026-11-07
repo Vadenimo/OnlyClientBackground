@@ -32,11 +32,11 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
   background: transparent;
 }
 
-:is([class^="sidebar_"], [class*=" sidebar_"])::after {
+:is([class^="base_"], [class*=" base_"]) :is([class^="sidebar_"], [class*=" sidebar_"])::after {
   background: transparent;
 }
 
-:is([class^="sidebar_"], [class*=" sidebar_"]) :is([class^="container_"], [class*=" container_"]) {
+:is([class^="base_"], [class*=" base_"]) :is([class^="sidebar_"], [class*=" sidebar_"]) :is([class^="container_"], [class*=" container_"]) {
   background: transparent;
 }
 
@@ -44,7 +44,7 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
   background: none;
 }
 
-:is([class^="sidebar_"], [class*=" sidebar_"]) :is([class^="scroller_"], [class*=" scroller_"]) {
+:is([class^="base_"], [class*=" base_"]) :is([class^="sidebar_"], [class*=" sidebar_"]) :is([class^="scroller_"], [class*=" scroller_"]) {
   background: transparent;
 }
 
