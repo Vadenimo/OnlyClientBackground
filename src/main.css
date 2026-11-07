@@ -202,16 +202,3 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
 :is([class^="textContainer_"], [class*=" textContainer_"]) :is([class^="codeView_"], [class*=" codeView_"]) {
   background: transparent !important;
 }
-
-:is([class^="chat_"], [class*=" chat_"]) {
-  --background-gradient-chat: transparent !important;
-  --custom-channel-members-bg: transparent !important;
-}
-
-:is([class^="chatContent_"], [class*=" chatContent_"]) :is(
-  [class^="messagesWrapper_"], [class*=" messagesWrapper_"],
-  [class^="scrollerContent_"], [class*=" scrollerContent_"],
-  [class*="placeholder"], [class*="Placeholder"]
-) {
-  background: transparent !important;
-}
