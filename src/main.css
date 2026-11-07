@@ -1,6 +1,5 @@
 body {
-  outline: 6px solid red !important;
-  outline-offset: -6px;
+    background-color: transparent !important;
 }
 
 :is([class^="appMount_"], [class*=" appMount_"]) {
