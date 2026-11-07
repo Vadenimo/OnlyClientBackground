@@ -101,10 +101,6 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
   background-color: transparent;
 }
 
-:is([class^="membersWrap_"], [class*=" membersWrap_"]) > :is([class^="container_"], [class*=" container_"]) {
-  background: transparent;
-}
-
 :is([class^="members_"], [class*=" members_"]),
 :is([class^="member_"], [class*=" member_"]) {
   background: transparent;
