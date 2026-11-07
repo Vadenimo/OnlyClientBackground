@@ -186,10 +186,6 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
   background: transparent !important;
 }
 
-:is([class^="container_"], [class*=" container_"]):has(> :is([class^="membersWrap_"], [class*=" membersWrap_"], [class^="members_"], [class*=" members_"])) {
-  background: transparent !important;
-}
-
 :is([class^="textContainer_"], [class*=" textContainer_"]) {
   background: var(--background-gradient-high, var(--background-surface-high)) !important;
 }
