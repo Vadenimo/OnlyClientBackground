@@ -162,7 +162,6 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
 
 :is([class^="chatContent_"], [class*=" chatContent_"]) :is([class^="container_"], [class*=" container_"]):hover {
   background: transparent;
-  backdrop-filter: blur(15px);
 }
 
 :is([class^="callContainer_"], [class*=" callContainer_"]),
