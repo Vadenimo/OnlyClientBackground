@@ -120,7 +120,7 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
   background-color: transparent;
 }
 
-:is([class^="tabBody_"], [class*=" tabBody_"]), .tabBody_zrUwGA {
+:is([class^="tabBody_"], [class*=" tabBody_"]) {
   background: transparent;
 }
 
@@ -201,4 +201,9 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
 :is([class^="textContainer_"], [class*=" textContainer_"]) :is([class^="scroller_"], [class*=" scroller_"]),
 :is([class^="textContainer_"], [class*=" textContainer_"]) :is([class^="codeView_"], [class*=" codeView_"]) {
   background: transparent !important;
+}
+
+:is([class^="page_"], [class*=" page_"]) > main:is([class^="container_"], [class*=" container_"]) {
+  background: transparent !important;
+  background-color: transparent !important;
 }
