@@ -199,3 +199,7 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
 :is([class^="mainCard_"], [class*=" mainCard_"]) {
   background: transparent;
 }
+
+:is([class^="container_"], [class*=" container_"]):has(> :is([class^="membersWrap_"], [class*=" membersWrap_"], [class^="members_"], [class*=" members_"])) {
+  background: transparent !important;
+}
