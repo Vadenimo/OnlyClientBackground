@@ -188,6 +188,9 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
   background: transparent !important;
 }
 
+:is([class^="codeView_"], [class*=" codeView_"]) {
+  background-color: transparent;
+}
 
 :has(> :is([class^="mainCard_"], [class*=" mainCard_"])) {
   background: transparent;
