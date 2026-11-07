@@ -1,7 +1,7 @@
 /**
 * @name OnlyClientBackground
 * @author Vadenimo
-* @version 1.0
+* @version 2.0
 * @description A theme that allows one to change their client's background.
 * @source https://github.com/Vadenimo/OnlyClientBackground
 */
@@ -13,7 +13,7 @@
 :root {
 
   /* Client's Background Settings */
-  --theme-background-image: url(https://i.imgur.com/zrUgRLJ.jpeg);
+  --theme-background-image: url(https://images.pexels.com/photos/4991338/pexels-photo-4991338.jpeg);
   --theme-transparency: rgba(0, 0, 0, 0.75);
 
   /* Client's Font Settings */
