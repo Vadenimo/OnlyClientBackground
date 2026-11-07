@@ -48,7 +48,7 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
   background: transparent;
 }
 
-:is([class^="panel_"], [class*=" panel_"]) {
+:is([class^="base_"], [class*=" base_"]) :is([class^="panel_"], [class*=" panel_"]) {
   background-color: transparent !important;
 }
 
