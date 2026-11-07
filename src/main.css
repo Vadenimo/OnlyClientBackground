@@ -188,8 +188,8 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
   background: transparent;
 }
 
-:has(> :is([class^="chatLayerWrapper_"], [class*=" chatLayerWrapper_"])) {
-  background: transparent;
+:is([class^="chatLayerWrapper_"], [class*=" chatLayerWrapper_"]) > * {
+  background: transparent !important;
 }
 
 
