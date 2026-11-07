@@ -16,7 +16,7 @@ body {
   background: var(--theme-transparency);
 }
 
-:is([class^="layer_"], [class*=" layer_"]) {
+:is([class^="layers_"], [class*=" layers_"]) > :is([class^="layer_"], [class*=" layer_"]) {
   background: transparent;
 }
 
