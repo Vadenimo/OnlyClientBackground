@@ -120,7 +120,7 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
   background-color: transparent;
 }
 
-:is([class^="tabBody_"], [class*=" tabBody_"]) {
+:is([class^="tabBody_"], [class*=" tabBody_"]), .tabBody_zrUwGA {
   background: transparent;
 }
 
