@@ -211,3 +211,8 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
 [data-member-list-open]:is([class^="container_"], [class*=" container_"]) {
   background: transparent !important;
 }
+
+[data-list-id="chat-messages"] > :is([class^="container_"], [class*=" container_"]),
+[data-list-id="chat-messages"] > :is([class^="container_"], [class*=" container_"]) :is([class^="header_"], [class*=" header_"]) {
+  background: transparent !important;
+}
