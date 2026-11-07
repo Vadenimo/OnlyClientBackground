@@ -101,7 +101,7 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
   background-color: transparent;
 }
 
-:is([class^="membersWrap_"], [class*=" membersWrap_"]) :is([class^="container_"], [class*=" container_"]) {
+:is([class^="membersWrap_"], [class*=" membersWrap_"]) > :is([class^="container_"], [class*=" container_"]) {
   background: transparent;
 }
 
@@ -219,12 +219,4 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
 
 :is([class^="page_"], [class*=" page_"]) > :is([class^="container_"], [class*=" container_"]) > :is([class^="scroller_"], [class*=" scroller_"]) {
   background: transparent !important;
-}
-
-:is([class^="contentRegion_"], [class*=" contentRegion_"]) [class*="tier"] {
-  background: var(--background-base-lower) !important;
-}
-
-:is([class^="contentRegion_"], [class*=" contentRegion_"]) [class*="tier"][class*="eader"] {
-  background: var(--background-surface-high) !important;
 }
