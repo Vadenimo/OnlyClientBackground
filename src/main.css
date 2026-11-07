@@ -157,7 +157,6 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
 
 :is([class^="footer_"], [class*=" footer_"]):has(:is([class^="textContainer_"], [class*=" textContainer_"])) {
   background: transparent;
-  backdrop-filter: blur(5px);
 }
 
 :is([class^="textContainer_"], [class*=" textContainer_"]) {
