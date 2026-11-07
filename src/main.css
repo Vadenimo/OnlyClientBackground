@@ -48,6 +48,10 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
   background: transparent;
 }
 
+:is([class^="panel_"], [class*=" panel_"]):not([role="dialog"] *) {
+  background-color: transparent !important;
+}
+
 :is([class^="chat_"], [class*=" chat_"]) {
   background: transparent;
 }
