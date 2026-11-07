@@ -160,11 +160,6 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
   backdrop-filter: blur(5px);
 }
 
-:is([class^="textContainer_"], [class*=" textContainer_"]) {
-  background-color: transparent;
-  backdrop-filter: blur(15px) !important;
-}
-
 :is([class^="chatContent_"], [class*=" chatContent_"]) :is([class^="container_"], [class*=" container_"]):hover {
   background: transparent;
   backdrop-filter: blur(15px);
@@ -186,10 +181,6 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
 
 :is([class^="chatLayerWrapper_"], [class*=" chatLayerWrapper_"]) > * {
   background: transparent !important;
-}
-
-:is([class^="codeView_"], [class*=" codeView_"]) {
-  background-color: transparent;
 }
 
 :has(> :is([class^="mainCard_"], [class*=" mainCard_"])) {
