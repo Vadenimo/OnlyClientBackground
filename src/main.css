@@ -216,3 +216,7 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
 [data-list-id="chat-messages"] > :is([class^="container_"], [class*=" container_"]) :is([class^="header_"], [class*=" header_"]) {
   background: transparent !important;
 }
+
+:is([class^="page_"], [class*=" page_"]) > :is([class^="container_"], [class*=" container_"]) > :is([class^="scroller_"], [class*=" scroller_"]) {
+  background: transparent !important;
+}
