@@ -207,3 +207,7 @@ nav:is([class^="wrapper_"], [class*=" wrapper_"]) {
   background: transparent !important;
   background-color: transparent !important;
 }
+
+[data-member-list-open]:is([class^="container_"], [class*=" container_"]) {
+  background: transparent !important;
+}
